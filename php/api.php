@@ -1,5 +1,6 @@
 <?php
 //判断是否随机调用
+error_reporting(0);
 if ($_GET['rand']==='true') {
   $gettime = rand(-1,7);
 }else{
@@ -10,6 +11,34 @@ if ($_GET['rand']==='true') {
   }else{
     $gettime = $gettimebase;
   }
+}
+
+function getfilecounts($dir){
+  $handle = opendir($dir);
+  $i = 0;
+  while(false !== $file=(readdir($handle))){
+    if($file !== '.' && $file != '..')
+    {
+      $i++;
+    }
+  }
+  closedir($handle);
+  return $i;
+}
+$page = $_GET['page'];
+$file_dir = "../json/";
+if (!empty($page)&&Is_numeric($page)){
+  header('Content-Type:application/json; charset=utf-8');
+  $index = getfilecounts("../json/");
+  if($index>=$page){
+    $path = "../json/".strval($page).".json";
+    $raw_success = file_get_contents($path);
+    echo $raw_success;
+  }else{
+    $raw_fail = array('code' => 404, 'msg' => '彦祖，没有这一页哦');
+    echo json_encode($raw_fail);
+  }
+  exit;
 }
 //获取Bing Json信息
 $json_string = file_get_contents('https://www.bing.com/HPImageArchive.aspx?format=js&idx='.$gettime.'&n=1');
