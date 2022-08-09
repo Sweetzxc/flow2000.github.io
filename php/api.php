@@ -26,12 +26,12 @@ function getfilecounts($dir){
   return $i;
 }
 $page = $_GET['page'];
-$file_dir = "../json/";
+$file_dir = "/www/ScheduledTasks/json/";
 if (!empty($page)&&Is_numeric($page)){
   header('Content-Type:application/json; charset=utf-8');
-  $index = getfilecounts("../json/");
+  $index = getfilecounts($file_dir);
   if($index>=$page){
-    $path = "../json/".strval($page).".json";
+    $path = $file_dir.strval($page).".json";
     $raw_success = file_get_contents($path);
     echo $raw_success;
   }else{
