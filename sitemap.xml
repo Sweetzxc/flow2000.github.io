@@ -153,14 +153,14 @@
   </url>
   
   <url>
-    <loc>https://blog.panghai.top/tags/hello-world/</loc>
+    <loc>https://blog.panghai.top/tags/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2022-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.panghai.top/tags/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/</loc>
+    <loc>https://blog.panghai.top/tags/hello-world/</loc>
     <lastmod>2022-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -176,14 +176,14 @@
   </url>
   
   <url>
-    <loc>https://blog.panghai.top/categories/hello-world/</loc>
+    <loc>https://blog.panghai.top/categories/%E7%94%B5%E8%84%91%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.panghai.top/categories/%E7%94%B5%E8%84%91%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://blog.panghai.top/categories/hello-world/</loc>
     <lastmod>2022-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
