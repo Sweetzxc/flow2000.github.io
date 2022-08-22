@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-08-21T15:17:02.089Z</updated>
+  <updated>2022-08-22T14:23:03.449Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开机更换壁纸</title>
+    <link href="https://blog.panghai.top/posts/e22f/"/>
+    <id>https://blog.panghai.top/posts/e22f/</id>
+    <published>2022-08-22T14:14:07.000Z</published>
+    <updated>2022-08-22T14:23:03.449Z</updated>
+    
+    
+    <summary type="html">必应搜索每日都会有一张精美的图片，我们可以每次开机设置最新壁纸到电脑背景</summary>
+    
+    
+    
+    <category term="每日壁纸" scheme="https://blog.panghai.top/categories/%E6%AF%8F%E6%97%A5%E5%A3%81%E7%BA%B8/"/>
+    
+    
+    <category term="必应api" scheme="https://blog.panghai.top/tags/%E5%BF%85%E5%BA%94api/"/>
+    
+  </entry>
   
   <entry>
     <title>Butterfly博客使用（标签外挂）</title>

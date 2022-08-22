@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>开机更换壁纸</title>
+      <link href="/posts/e22f/"/>
+      <url>/posts/e22f/</url>
+      
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>​必应搜索每日都会有一张精美的图片，我们可以每次开机设置最新壁纸到电脑背景</p><h2 id="前提"><a href="#前提" class="headerlink" title="前提"></a>前提</h2><p>​1、需拥有python环境</p><p>​2、需要在有网络环境下运行</p><p>​    3、最好先单独执行set_today_background.py，执行错误则需要pip安装以上导入的包</p><h2 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2><p>1、克隆项目</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">git</span> <span class="string">clone</span> <span class="string">git@github.com:flow2000/set-today-background.git</span></span><br></pre></td></tr></table></figure><p>2、编辑set_today_background.py的root_path路径，编辑start.bat中path路径（python安装路径）和python文件路径</p><p>3、将set_today_background.py放入图片文件中，start.bat放入C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp，开机重启验证即可</p><p>至此已实现客户端开机自动下载壁纸并设置电脑背景的需求（有网的情况下）。</p><h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><p>1、本程序有一个缺陷：当开机后没有联网运行set_today_background.py会导致下载壁纸失败。可以在start.bat中set path&#x3D;xxx前加入：</p><figure class="highlight bat"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">timeout <span class="number">60</span></span><br></pre></td></tr></table></figure><p>60是秒数，start.bat内已加入timeout 3，可自行设置时长，限定时间内自行连上网即可</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 每日壁纸 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 必应api </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Butterfly博客使用（标签外挂）</title>
       <link href="/posts/5dd3/"/>
       <url>/posts/5dd3/</url>
