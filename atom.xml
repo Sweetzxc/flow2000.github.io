@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-08-23T09:48:14.573Z</updated>
+  <updated>2022-08-24T15:57:00.346Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Nginx（基础教程）</title>
+    <link href="https://blog.panghai.top/posts/2c47/"/>
+    <id>https://blog.panghai.top/posts/2c47/</id>
+    <published>2022-08-24T01:59:50.000Z</published>
+    <updated>2022-08-24T15:57:00.346Z</updated>
+    
+    
+    <summary type="html">nginx [engine x] 是 HTTP 和反向代理服务器、邮件代理服务器和通用 TCP/UDP 代理服务器，具有低系统消耗、稳定、配置简单的特点，能够支持高达50000个并发连接数的响应，采用模块化编译，支持定制化使用。</summary>
+    
+    
+    
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    
+    
+    <category term="Nginx" scheme="https://blog.panghai.top/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
     <title>自建必应壁纸api</title>
     <link href="https://blog.panghai.top/posts/af9f/"/>
     <id>https://blog.panghai.top/posts/af9f/</id>
     <published>2022-08-23T01:30:05.000Z</published>
-    <updated>2022-08-23T09:48:14.573Z</updated>
+    <updated>2022-08-24T09:36:53.774Z</updated>
     
     
     <summary type="html">必应搜索每日都会有一张精美的图片，我们可以自建壁纸api用于博客使用，不用纠结于找文章封面和顶部图</summary>
