@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-08-25T02:50:53.323Z</updated>
+  <updated>2022-08-25T14:21:52.077Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Nginx负载均衡</title>
+    <link href="https://blog.panghai.top/posts/68ad/"/>
+    <id>https://blog.panghai.top/posts/68ad/</id>
+    <published>2022-08-25T07:45:24.000Z</published>
+    <updated>2022-08-25T14:21:52.077Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;负载均衡就是将大量的请求按照某种方式均衡分配给集群中的服务器，防止大量请求只请求一台服务器，从而导致服务崩溃。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    
+    
+    <category term="Nginx负载均衡" scheme="https://blog.panghai.top/tags/Nginx%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Nginx反向代理</title>
     <link href="https://blog.panghai.top/posts/830e/"/>
     <id>https://blog.panghai.top/posts/830e/</id>
     <published>2022-08-25T02:13:19.000Z</published>
-    <updated>2022-08-25T02:50:53.323Z</updated>
+    <updated>2022-08-25T07:43:33.332Z</updated>
     
     
     <summary type="html">如果我们想要隐藏一些业务的真实ip地址，就要使用反向代理。通俗来说就是多了一个&quot;中介&quot;，只是你只能借助&quot;中介&quot;和通信方进行通信。</summary>
@@ -116,7 +142,7 @@
     <link href="https://blog.panghai.top/posts/c90c/"/>
     <id>https://blog.panghai.top/posts/c90c/</id>
     <published>2022-08-21T03:24:41.000Z</published>
-    <updated>2022-08-21T14:24:14.938Z</updated>
+    <updated>2022-08-25T12:21:20.903Z</updated>
     
     
     <summary type="html">本教程是Butterfly的进阶教程，用于增加博客的多样性，提升美感。</summary>
