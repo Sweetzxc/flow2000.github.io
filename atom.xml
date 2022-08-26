@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-08-25T14:21:52.077Z</updated>
+  <updated>2022-08-26T13:56:11.043Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nginx限流</title>
+    <link href="https://blog.panghai.top/posts/5e1e/"/>
+    <id>https://blog.panghai.top/posts/5e1e/</id>
+    <published>2022-08-26T13:23:46.000Z</published>
+    <updated>2022-08-26T13:56:11.043Z</updated>
+    
+    
+    <summary type="html">对外提供网络服务有时会遇到高并发访问的场景，这时我们需要限制访问的速率来保证系统的稳定运行，而Nginx可以通过限流服务来保护系统，主要通过</summary>
+    
+    
+    
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    
+    
+    <category term="Nginx限流" scheme="https://blog.panghai.top/tags/Nginx%E9%99%90%E6%B5%81/"/>
+    
+  </entry>
   
   <entry>
     <title>Nginx负载均衡</title>
@@ -142,7 +161,7 @@
     <link href="https://blog.panghai.top/posts/c90c/"/>
     <id>https://blog.panghai.top/posts/c90c/</id>
     <published>2022-08-21T03:24:41.000Z</published>
-    <updated>2022-08-25T12:21:20.903Z</updated>
+    <updated>2022-08-26T13:34:28.877Z</updated>
     
     
     <summary type="html">本教程是Butterfly的进阶教程，用于增加博客的多样性，提升美感。</summary>
@@ -180,7 +199,7 @@
     <link href="https://blog.panghai.top/posts/447d/"/>
     <id>https://blog.panghai.top/posts/447d/</id>
     <published>2022-08-20T03:07:24.000Z</published>
-    <updated>2022-08-22T03:35:56.473Z</updated>
+    <updated>2022-08-26T13:36:09.088Z</updated>
     
     
     <summary type="html">Butterfly是一个界面生动，图文交互性强的Hexo主题，借助官方文档和其他博主搭建过程我创作了该教程，该教程主要配Butterfly主题的基础设置，实现快速搭建。</summary>
