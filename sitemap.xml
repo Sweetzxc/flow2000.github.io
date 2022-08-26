@@ -221,13 +221,6 @@
   </url>
   
   <url>
-    <loc>https://blog.panghai.top/tags/Nginx%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
-    <lastmod>2022-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.panghai.top/tags/Nginx%E9%99%90%E6%B5%81/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,7 +228,7 @@
   </url>
   
   <url>
-    <loc>https://blog.panghai.top/tags/%E5%BF%85%E5%BA%94api/</loc>
+    <loc>https://blog.panghai.top/tags/Nginx%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -243,6 +236,13 @@
   
   <url>
     <loc>https://blog.panghai.top/tags/hello-world/</loc>
+    <lastmod>2022-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.panghai.top/tags/%E5%BF%85%E5%BA%94api/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -272,14 +272,14 @@
   </url>
   
   <url>
-    <loc>https://blog.panghai.top/categories/%E6%AF%8F%E6%97%A5%E5%A3%81%E7%BA%B8/</loc>
+    <loc>https://blog.panghai.top/categories/hello-world/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.panghai.top/categories/hello-world/</loc>
+    <loc>https://blog.panghai.top/categories/%E6%AF%8F%E6%97%A5%E5%A3%81%E7%BA%B8/</loc>
     <lastmod>2022-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
