@@ -85,7 +85,7 @@
     <link href="https://blog.panghai.top/posts/830e/"/>
     <id>https://blog.panghai.top/posts/830e/</id>
     <published>2022-08-25T02:13:19.000Z</published>
-    <updated>2022-08-25T07:43:33.332Z</updated>
+    <updated>2022-08-27T13:46:15.743Z</updated>
     
     
     <summary type="html">如果我们想要隐藏一些业务的真实ip地址，就要使用反向代理。通俗来说就是多了一个&quot;中介&quot;，只是你只能借助&quot;中介&quot;和通信方进行通信。</summary>
@@ -104,7 +104,7 @@
     <link href="https://blog.panghai.top/posts/2c47/"/>
     <id>https://blog.panghai.top/posts/2c47/</id>
     <published>2022-08-24T01:59:50.000Z</published>
-    <updated>2022-08-25T02:27:57.680Z</updated>
+    <updated>2022-08-27T13:46:20.042Z</updated>
     
     
     <summary type="html">Nginx [engine x] 是 HTTP 和反向代理服务器、邮件代理服务器和通用 TCP/UDP 代理服务器，具有低系统消耗、稳定、配置简单的特点，能够支持高达50000个并发连接数的响应，采用模块化编译，支持定制化使用。</summary>
