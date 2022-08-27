@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-08-26T13:56:11.043Z</updated>
+  <updated>2022-08-27T12:13:17.331Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Twikoo私有部署</title>
+    <link href="https://blog.panghai.top/posts/3f0b/"/>
+    <id>https://blog.panghai.top/posts/3f0b/</id>
+    <published>2022-08-27T07:36:31.000Z</published>
+    <updated>2022-08-27T12:13:17.331Z</updated>
+    
+    
+    <summary type="html">Twikoo是一个简洁、安全、免费的静态网站评论系统，支持邮件、QQ提醒、微信提醒，访客在昵称栏输入 QQ 号，会自动补全 QQ 昵称和 QQ 邮箱，免费搭建，简单部署</summary>
+    
+    
+    
+    <category term="Twikoo" scheme="https://blog.panghai.top/categories/Twikoo/"/>
+    
+    
+    <category term="Twikoo私有部署" scheme="https://blog.panghai.top/tags/Twikoo%E7%A7%81%E6%9C%89%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
   
   <entry>
     <title>Nginx限流</title>
@@ -199,7 +218,7 @@
     <link href="https://blog.panghai.top/posts/447d/"/>
     <id>https://blog.panghai.top/posts/447d/</id>
     <published>2022-08-20T03:07:24.000Z</published>
-    <updated>2022-08-26T13:36:09.088Z</updated>
+    <updated>2022-08-27T09:21:16.058Z</updated>
     
     
     <summary type="html">Butterfly是一个界面生动，图文交互性强的Hexo主题，借助官方文档和其他博主搭建过程我创作了该教程，该教程主要配Butterfly主题的基础设置，实现快速搭建。</summary>
