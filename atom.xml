@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-08-28T11:39:30.028Z</updated>
+  <updated>2022-08-29T14:28:05.365Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nginx自动化封禁ip</title>
+    <link href="https://blog.panghai.top/posts/7e+25/"/>
+    <id>https://blog.panghai.top/posts/7e+25/</id>
+    <published>2022-08-29T03:06:56.000Z</published>
+    <updated>2022-08-29T14:28:05.365Z</updated>
+    
+    
+    <summary type="html">在日常业务场景中可能存在恶意用户频繁访问系统，占用系统资源，影响正常用户访问。本次介绍如何利用Nginx和shell脚本自动化封禁访问ip。</summary>
+    
+    
+    
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    
+    
+    <category term="Nginx自动化封禁ip" scheme="https://blog.panghai.top/tags/Nginx%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B0%81%E7%A6%81ip/"/>
+    
+  </entry>
   
   <entry>
     <title>Qmsg私有部署</title>
@@ -192,7 +211,7 @@
     <link href="https://blog.panghai.top/posts/c90c/"/>
     <id>https://blog.panghai.top/posts/c90c/</id>
     <published>2022-08-21T03:24:41.000Z</published>
-    <updated>2022-08-28T12:59:57.305Z</updated>
+    <updated>2022-08-28T15:12:32.787Z</updated>
     
     
     <summary type="html">本教程是Butterfly的进阶教程，用于增加博客的多样性，提升美感。</summary>
