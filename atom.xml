@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-08-29T14:28:05.365Z</updated>
+  <updated>2022-08-29T16:10:31.839Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PostgreSql使用命令</title>
+    <link href="https://blog.panghai.top/posts/394e/"/>
+    <id>https://blog.panghai.top/posts/394e/</id>
+    <published>2022-08-29T16:08:11.000Z</published>
+    <updated>2022-08-29T16:10:31.839Z</updated>
+    
+    
+    <summary type="html">介绍PostgreSql常用的命令</summary>
+    
+    
+    
+    <category term="PostgreSql" scheme="https://blog.panghai.top/categories/PostgreSql/"/>
+    
+    
+    <category term="PostgreSql使用命令" scheme="https://blog.panghai.top/tags/PostgreSql%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PostgreSql安装教程</title>
+    <link href="https://blog.panghai.top/posts/71b1/"/>
+    <id>https://blog.panghai.top/posts/71b1/</id>
+    <published>2022-08-29T15:37:29.000Z</published>
+    <updated>2022-08-29T16:13:13.800Z</updated>
+    
+    
+    <summary type="html">PostgreSQL是一个免费的对象-关系数据库服务器(ORDBMS)，在灵活的BSD许可证下发行。PostgreSQL的Slogan是&quot;世界上最先进的开源关系型数据库&quot;。</summary>
+    
+    
+    
+    <category term="PostgreSql" scheme="https://blog.panghai.top/categories/PostgreSql/"/>
+    
+    
+    <category term="PostgreSql安装教程" scheme="https://blog.panghai.top/tags/PostgreSql%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Nginx自动化封禁ip</title>
