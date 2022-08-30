@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>心流</title>
-  <icon>https://blog.panghai.top/icon.png</icon>
+  <icon>https://blog.panghai.top/img/favicon.png</icon>
   <subtitle>个人技术分享博客</subtitle>
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-08-29T16:10:31.839Z</updated>
+  <updated>2022-08-30T12:50:22.993Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Butterfly博客优化</title>
+    <link href="https://blog.panghai.top/posts/b20a/"/>
+    <id>https://blog.panghai.top/posts/b20a/</id>
+    <published>2022-08-30T11:56:17.000Z</published>
+    <updated>2022-08-30T12:50:22.993Z</updated>
+    
+    
+    <summary type="html">在Butterfly的基础对页面的一些优化，因为涉及到修改源码，所以记录一下修改过程，以免升级主题时产生冲突。</summary>
+    
+    
+    
+    <category term="Butterfly" scheme="https://blog.panghai.top/categories/Butterfly/"/>
+    
+    
+    <category term="Butterfly博客优化" scheme="https://blog.panghai.top/tags/Butterfly%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>PostgreSql使用命令</title>
