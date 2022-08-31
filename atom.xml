@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-08-30T12:50:22.993Z</updated>
+  <updated>2022-08-31T15:21:28.169Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -17,21 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>八月小结</title>
+    <link href="https://blog.panghai.top/posts/5f5d/"/>
+    <id>https://blog.panghai.top/posts/5f5d/</id>
+    <published>2022-08-31T07:35:55.000Z</published>
+    <updated>2022-08-31T15:21:28.169Z</updated>
+    
+    
+    <summary type="html">总结一下八月份做了什么，有什么收获和困难，对未来有什么计划</summary>
+    
+    
+    
+    <category term="总结" scheme="https://blog.panghai.top/categories/%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="小结" scheme="https://blog.panghai.top/tags/%E5%B0%8F%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Butterfly博客优化</title>
     <link href="https://blog.panghai.top/posts/b20a/"/>
     <id>https://blog.panghai.top/posts/b20a/</id>
     <published>2022-08-30T11:56:17.000Z</published>
-    <updated>2022-08-30T12:50:22.993Z</updated>
+    <updated>2022-08-31T15:15:23.667Z</updated>
     
     
     <summary type="html">在Butterfly的基础对页面的一些优化，因为涉及到修改源码，所以记录一下修改过程，以免升级主题时产生冲突。</summary>
     
     
     
-    <category term="Butterfly" scheme="https://blog.panghai.top/categories/Butterfly/"/>
+    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="Butterfly博客优化" scheme="https://blog.panghai.top/tags/Butterfly%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
+    <category term="Butterfly" scheme="https://blog.panghai.top/tags/Butterfly/"/>
+    
+    <category term="博客搭建" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
@@ -40,14 +61,14 @@
     <link href="https://blog.panghai.top/posts/394e/"/>
     <id>https://blog.panghai.top/posts/394e/</id>
     <published>2022-08-29T16:08:11.000Z</published>
-    <updated>2022-08-29T16:10:31.839Z</updated>
+    <updated>2022-08-31T15:18:26.925Z</updated>
     
     
     <summary type="html">介绍PostgreSql常用的命令</summary>
     
     
     
-    <category term="PostgreSql" scheme="https://blog.panghai.top/categories/PostgreSql/"/>
+    <category term="数据库" scheme="https://blog.panghai.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
     <category term="PostgreSql使用命令" scheme="https://blog.panghai.top/tags/PostgreSql%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
@@ -59,14 +80,14 @@
     <link href="https://blog.panghai.top/posts/71b1/"/>
     <id>https://blog.panghai.top/posts/71b1/</id>
     <published>2022-08-29T15:37:29.000Z</published>
-    <updated>2022-08-29T16:13:13.800Z</updated>
+    <updated>2022-08-31T15:18:30.540Z</updated>
     
     
     <summary type="html">PostgreSQL是一个免费的对象-关系数据库服务器(ORDBMS)，在灵活的BSD许可证下发行。PostgreSQL的Slogan是&quot;世界上最先进的开源关系型数据库&quot;。</summary>
     
     
     
-    <category term="PostgreSql" scheme="https://blog.panghai.top/categories/PostgreSql/"/>
+    <category term="数据库" scheme="https://blog.panghai.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
     <category term="PostgreSql安装教程" scheme="https://blog.panghai.top/tags/PostgreSql%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
@@ -78,14 +99,14 @@
     <link href="https://blog.panghai.top/posts/7e+25/"/>
     <id>https://blog.panghai.top/posts/7e+25/</id>
     <published>2022-08-29T03:06:56.000Z</published>
-    <updated>2022-08-29T14:28:05.365Z</updated>
+    <updated>2022-08-31T15:18:55.254Z</updated>
     
     
     <summary type="html">在日常业务场景中可能存在恶意用户频繁访问系统，占用系统资源，影响正常用户访问。本次介绍如何利用Nginx和shell脚本自动化封禁访问ip。</summary>
     
     
     
-    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    <category term="Web应用服务器" scheme="https://blog.panghai.top/categories/Web%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
     <category term="Nginx自动化封禁ip" scheme="https://blog.panghai.top/tags/Nginx%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B0%81%E7%A6%81ip/"/>
@@ -97,15 +118,17 @@
     <link href="https://blog.panghai.top/posts/7b50/"/>
     <id>https://blog.panghai.top/posts/7b50/</id>
     <published>2022-08-28T02:01:14.000Z</published>
-    <updated>2022-08-28T11:39:30.028Z</updated>
+    <updated>2022-08-31T15:16:12.310Z</updated>
     
     
     <summary type="html">Qmsg酱是一个QQ消息推送机器人，用来通知自己消息的免费服务。通过调用API接口，实现机器人给你的QQ发送消息的功能。通俗易懂点就是有什么重要通知需要及时知道，可以让Qmsg酱第一时间给你发QQ消息。</summary>
     
     
     
-    <category term="Qmsg" scheme="https://blog.panghai.top/categories/Qmsg/"/>
+    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
     
+    
+    <category term="博客搭建" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     <category term="Qmsg私有部署" scheme="https://blog.panghai.top/tags/Qmsg%E7%A7%81%E6%9C%89%E9%83%A8%E7%BD%B2/"/>
     
@@ -116,15 +139,17 @@
     <link href="https://blog.panghai.top/posts/3f0b/"/>
     <id>https://blog.panghai.top/posts/3f0b/</id>
     <published>2022-08-27T07:36:31.000Z</published>
-    <updated>2022-08-28T11:39:44.479Z</updated>
+    <updated>2022-08-31T15:22:27.181Z</updated>
     
     
     <summary type="html">Twikoo是一个简洁、安全、免费的静态网站评论系统，支持邮件、QQ提醒、微信提醒，访客在昵称栏输入 QQ 号，会自动补全 QQ 昵称和 QQ 邮箱，免费搭建，简单部署。</summary>
     
     
     
-    <category term="Twikoo" scheme="https://blog.panghai.top/categories/Twikoo/"/>
+    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
     
+    
+    <category term="博客搭建" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     <category term="Twikoo私有部署" scheme="https://blog.panghai.top/tags/Twikoo%E7%A7%81%E6%9C%89%E9%83%A8%E7%BD%B2/"/>
     
@@ -135,14 +160,14 @@
     <link href="https://blog.panghai.top/posts/5e1e/"/>
     <id>https://blog.panghai.top/posts/5e1e/</id>
     <published>2022-08-26T13:23:46.000Z</published>
-    <updated>2022-08-28T11:39:15.369Z</updated>
+    <updated>2022-08-31T15:18:59.311Z</updated>
     
     
     <summary type="html">对外提供网络服务有时会遇到高并发访问的场景，这时我们需要限制访问的速率来保证系统的稳定运行，而Nginx可以通过限流服务来实现。</summary>
     
     
     
-    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    <category term="Web应用服务器" scheme="https://blog.panghai.top/categories/Web%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
     <category term="Nginx限流" scheme="https://blog.panghai.top/tags/Nginx%E9%99%90%E6%B5%81/"/>
@@ -154,14 +179,14 @@
     <link href="https://blog.panghai.top/posts/68ad/"/>
     <id>https://blog.panghai.top/posts/68ad/</id>
     <published>2022-08-25T07:45:24.000Z</published>
-    <updated>2022-08-28T11:38:48.133Z</updated>
+    <updated>2022-08-31T15:19:02.907Z</updated>
     
     
     <summary type="html">负载均衡就是将大量的请求按照某种方式均衡分配给集群中的服务器，防止大量请求只请求一台服务器，从而导致服务崩溃。</summary>
     
     
     
-    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    <category term="Web应用服务器" scheme="https://blog.panghai.top/categories/Web%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
     <category term="Nginx负载均衡" scheme="https://blog.panghai.top/tags/Nginx%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/"/>
@@ -173,14 +198,14 @@
     <link href="https://blog.panghai.top/posts/830e/"/>
     <id>https://blog.panghai.top/posts/830e/</id>
     <published>2022-08-25T02:13:19.000Z</published>
-    <updated>2022-08-28T11:38:30.665Z</updated>
+    <updated>2022-08-31T15:19:09.146Z</updated>
     
     
     <summary type="html">如果我们想要隐藏一些业务的真实ip地址，就要使用反向代理。通俗来说就是多了一个&quot;中介&quot;，只是你只能借助&quot;中介&quot;和通信方进行通信。</summary>
     
     
     
-    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    <category term="Web应用服务器" scheme="https://blog.panghai.top/categories/Web%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
     <category term="Nginx反向代理" scheme="https://blog.panghai.top/tags/Nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/"/>
@@ -192,14 +217,14 @@
     <link href="https://blog.panghai.top/posts/2c47/"/>
     <id>https://blog.panghai.top/posts/2c47/</id>
     <published>2022-08-24T01:59:50.000Z</published>
-    <updated>2022-08-28T11:38:21.939Z</updated>
+    <updated>2022-08-31T15:19:16.979Z</updated>
     
     
     <summary type="html">Nginx [engine x] 是 HTTP 和反向代理服务器、邮件代理服务器和通用 TCP/UDP 代理服务器，具有低系统消耗、稳定、配置简单的特点，能够支持高达50000个并发连接数的响应，采用模块化编译，支持定制化使用。</summary>
     
     
     
-    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    <category term="Web应用服务器" scheme="https://blog.panghai.top/categories/Web%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
     <category term="Nginx基本使用" scheme="https://blog.panghai.top/tags/Nginx%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/"/>
@@ -211,14 +236,14 @@
     <link href="https://blog.panghai.top/posts/af9f/"/>
     <id>https://blog.panghai.top/posts/af9f/</id>
     <published>2022-08-23T01:30:05.000Z</published>
-    <updated>2022-08-28T11:40:24.458Z</updated>
+    <updated>2022-08-31T15:18:16.962Z</updated>
     
     
     <summary type="html">必应搜索每日都会有一张精美的图片，我们可以自建壁纸api用于博客使用，不用纠结于找文章封面和顶部图。</summary>
     
     
     
-    <category term="每日壁纸" scheme="https://blog.panghai.top/categories/%E6%AF%8F%E6%97%A5%E5%A3%81%E7%BA%B8/"/>
+    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="必应api" scheme="https://blog.panghai.top/tags/%E5%BF%85%E5%BA%94api/"/>
@@ -230,14 +255,14 @@
     <link href="https://blog.panghai.top/posts/e22f/"/>
     <id>https://blog.panghai.top/posts/e22f/</id>
     <published>2022-08-22T14:14:07.000Z</published>
-    <updated>2022-08-28T11:40:12.257Z</updated>
+    <updated>2022-08-31T15:18:11.900Z</updated>
     
     
     <summary type="html">必应搜索每日都会有一张精美的图片，我们可以每次开机设置最新壁纸到电脑背景。</summary>
     
     
     
-    <category term="每日壁纸" scheme="https://blog.panghai.top/categories/%E6%AF%8F%E6%97%A5%E5%A3%81%E7%BA%B8/"/>
+    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="必应api" scheme="https://blog.panghai.top/tags/%E5%BF%85%E5%BA%94api/"/>
@@ -249,17 +274,19 @@
     <link href="https://blog.panghai.top/posts/5dd3/"/>
     <id>https://blog.panghai.top/posts/5dd3/</id>
     <published>2022-08-21T05:15:03.000Z</published>
-    <updated>2022-08-28T11:37:55.268Z</updated>
+    <updated>2022-08-31T15:15:18.883Z</updated>
     
     
     <summary type="html">标签外挂是Hexo独有的功能，它能为主题带来一些额外的功能和UI方面的强化，但标签外挂也有明显的限制，使用时请留意。</summary>
     
     
     
-    <category term="Butterfly" scheme="https://blog.panghai.top/categories/Butterfly/"/>
+    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="Butterfly" scheme="https://blog.panghai.top/tags/Butterfly/"/>
+    
+    <category term="博客使用" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8/"/>
     
   </entry>
   
@@ -268,17 +295,19 @@
     <link href="https://blog.panghai.top/posts/c90c/"/>
     <id>https://blog.panghai.top/posts/c90c/</id>
     <published>2022-08-21T03:24:41.000Z</published>
-    <updated>2022-08-28T15:12:32.787Z</updated>
+    <updated>2022-08-31T15:14:45.564Z</updated>
     
     
     <summary type="html">本教程是Butterfly的进阶教程，用于增加博客的多样性，提升美感。</summary>
     
     
     
-    <category term="Butterfly" scheme="https://blog.panghai.top/categories/Butterfly/"/>
+    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="Butterfly" scheme="https://blog.panghai.top/tags/Butterfly/"/>
+    
+    <category term="博客搭建" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
@@ -287,14 +316,14 @@
     <link href="https://blog.panghai.top/posts/8a27/"/>
     <id>https://blog.panghai.top/posts/8a27/</id>
     <published>2022-08-20T08:52:12.000Z</published>
-    <updated>2022-08-28T11:39:59.929Z</updated>
+    <updated>2022-08-31T15:19:42.775Z</updated>
     
     
     <summary type="html">电脑是现代生活中必不可少的工具，而掌握一些常用命令或使用技巧能让我们事半功倍。</summary>
     
     
     
-    <category term="电脑工具" scheme="https://blog.panghai.top/categories/%E7%94%B5%E8%84%91%E5%B7%A5%E5%85%B7/"/>
+    <category term="工具" scheme="https://blog.panghai.top/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
     <category term="快捷命令" scheme="https://blog.panghai.top/tags/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/"/>
@@ -306,36 +335,19 @@
     <link href="https://blog.panghai.top/posts/447d/"/>
     <id>https://blog.panghai.top/posts/447d/</id>
     <published>2022-08-20T03:07:24.000Z</published>
-    <updated>2022-08-28T13:40:15.796Z</updated>
+    <updated>2022-08-31T15:14:37.194Z</updated>
     
     
     <summary type="html">Butterfly是一个界面生动，图文交互性强的Hexo主题，借助官方文档和其他博主搭建过程我创作了该教程，该教程主要配Butterfly主题的基础设置，实现快速搭建。</summary>
     
     
     
-    <category term="Butterfly" scheme="https://blog.panghai.top/categories/Butterfly/"/>
+    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
     <category term="Butterfly" scheme="https://blog.panghai.top/tags/Butterfly/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://blog.panghai.top/posts/3eeb/"/>
-    <id>https://blog.panghai.top/posts/3eeb/</id>
-    <published>2022-07-28T14:19:11.185Z</published>
-    <updated>2022-08-28T11:38:10.256Z</updated>
-    
-    
-    <summary type="html">这是一段hello world文章，致敬每学习一门编程语言都会先输出hello world</summary>
-    
-    
-    
-    <category term="hello world" scheme="https://blog.panghai.top/categories/hello-world/"/>
-    
-    
-    <category term="hello world" scheme="https://blog.panghai.top/tags/hello-world/"/>
+    <category term="博客搭建" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
