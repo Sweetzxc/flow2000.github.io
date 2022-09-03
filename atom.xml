@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-09-02T16:02:54.440Z</updated>
+  <updated>2022-09-03T12:58:59.925Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Cron表达式详解</title>
+    <title>Linux常用命令学习：cat命令</title>
+    <link href="https://blog.panghai.top/posts/7cc8/"/>
+    <id>https://blog.panghai.top/posts/7cc8/</id>
+    <published>2022-09-03T12:54:30.000Z</published>
+    <updated>2022-09-03T12:58:59.925Z</updated>
+    
+    
+    <summary type="html">cat（英文全拼：concatenate）命令用于连接文件并打印到标准输出设备上</summary>
+    
+    
+    
+    <category term="Linux教程" scheme="https://blog.panghai.top/categories/Linux%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Linux命令学习" scheme="https://blog.panghai.top/tags/Linux%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="cat" scheme="https://blog.panghai.top/tags/cat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>定时任务Cron表达式详细讲解</title>
     <link href="https://blog.panghai.top/posts/19b8/"/>
     <id>https://blog.panghai.top/posts/19b8/</id>
     <published>2022-09-02T06:54:03.000Z</published>
-    <updated>2022-09-02T16:02:54.440Z</updated>
+    <updated>2022-09-03T08:55:50.008Z</updated>
     
     
     <summary type="html">Corn表达式就是一个字符串，它以 5 或 6 个空格隔开，包含 6 或 7 个域，每一个域代表一个含义</summary>
@@ -36,11 +57,11 @@
   </entry>
   
   <entry>
-    <title>Linux安装python3.8.5</title>
+    <title>Linux常用工具安装：python3.8.5</title>
     <link href="https://blog.panghai.top/posts/d5f4/"/>
     <id>https://blog.panghai.top/posts/d5f4/</id>
     <published>2022-09-01T13:19:44.000Z</published>
-    <updated>2022-09-02T06:56:13.758Z</updated>
+    <updated>2022-09-03T09:12:12.739Z</updated>
     
     
     <summary type="html">通常服务器上自带了python2.7环境，但由于版本太低，限制我们开发，但是yum命令又依赖python2.7环境，所以升级python时需要注意</summary>
@@ -57,11 +78,11 @@
   </entry>
   
   <entry>
-    <title>八月小结</title>
+    <title>八月份小结：我的博客收获小结</title>
     <link href="https://blog.panghai.top/posts/5f5d/"/>
     <id>https://blog.panghai.top/posts/5f5d/</id>
     <published>2022-08-31T07:35:55.000Z</published>
-    <updated>2022-09-02T06:57:18.371Z</updated>
+    <updated>2022-09-03T09:09:44.030Z</updated>
     
     
     <summary type="html">总结一下八月份做了什么，有什么收获和困难，对未来有什么计划</summary>
@@ -76,11 +97,11 @@
   </entry>
   
   <entry>
-    <title>Butterfly博客优化</title>
+    <title>Butterfly博客主题搭建系列：美化魔改教程</title>
     <link href="https://blog.panghai.top/posts/b20a/"/>
     <id>https://blog.panghai.top/posts/b20a/</id>
     <published>2022-08-30T11:56:17.000Z</published>
-    <updated>2022-09-02T06:56:05.992Z</updated>
+    <updated>2022-09-03T09:02:54.909Z</updated>
     
     
     <summary type="html">在Butterfly的基础对页面的一些优化，因为涉及到修改源码，所以记录一下修改过程，以免升级主题时产生冲突。</summary>
@@ -97,14 +118,14 @@
   </entry>
   
   <entry>
-    <title>PostgreSql使用命令</title>
+    <title>世界上最先进的开源关系型数据库——PostgreSql常用命令</title>
     <link href="https://blog.panghai.top/posts/394e/"/>
     <id>https://blog.panghai.top/posts/394e/</id>
     <published>2022-08-29T16:08:11.000Z</published>
-    <updated>2022-09-02T06:56:58.890Z</updated>
+    <updated>2022-09-03T09:04:11.250Z</updated>
     
     
-    <summary type="html">介绍PostgreSql常用的命令</summary>
+    <summary type="html">介绍关系型数据库PostgreSql常用命令</summary>
     
     
     
@@ -116,11 +137,11 @@
   </entry>
   
   <entry>
-    <title>PostgreSql安装教程</title>
+    <title>世界上最先进的开源关系型数据库——PostgreSql安装教程</title>
     <link href="https://blog.panghai.top/posts/71b1/"/>
     <id>https://blog.panghai.top/posts/71b1/</id>
     <published>2022-08-29T15:37:29.000Z</published>
-    <updated>2022-09-02T06:56:52.996Z</updated>
+    <updated>2022-09-03T09:04:04.587Z</updated>
     
     
     <summary type="html">PostgreSQL是一个免费的对象-关系数据库服务器(ORDBMS)，在灵活的BSD许可证下发行。PostgreSQL的Slogan是&quot;世界上最先进的开源关系型数据库&quot;。</summary>
@@ -135,11 +156,11 @@
   </entry>
   
   <entry>
-    <title>Nginx自动化封禁ip</title>
+    <title>高性能Web应用服务器Nginx功能之自动化封禁ip</title>
     <link href="https://blog.panghai.top/posts/7e+25/"/>
     <id>https://blog.panghai.top/posts/7e+25/</id>
     <published>2022-08-29T03:06:56.000Z</published>
-    <updated>2022-09-02T06:56:46.230Z</updated>
+    <updated>2022-09-03T08:53:42.566Z</updated>
     
     
     <summary type="html">在日常业务场景中可能存在恶意用户频繁访问系统，占用系统资源，影响正常用户访问。本次介绍如何利用Nginx和shell脚本自动化封禁访问ip。</summary>
@@ -154,11 +175,11 @@
   </entry>
   
   <entry>
-    <title>Qmsg私有部署</title>
+    <title>QQ消息推送机器人Qmsg私有化部署</title>
     <link href="https://blog.panghai.top/posts/7b50/"/>
     <id>https://blog.panghai.top/posts/7b50/</id>
     <published>2022-08-28T02:01:14.000Z</published>
-    <updated>2022-09-02T06:57:05.549Z</updated>
+    <updated>2022-09-03T08:49:23.750Z</updated>
     
     
     <summary type="html">Qmsg酱是一个QQ消息推送机器人，用来通知自己消息的免费服务。通过调用API接口，实现机器人给你的QQ发送消息的功能。通俗易懂点就是有什么重要通知需要及时知道，可以让Qmsg酱第一时间给你发QQ消息。</summary>
@@ -175,11 +196,11 @@
   </entry>
   
   <entry>
-    <title>Twikoo私有部署</title>
+    <title>静态网站评论系统Twikoo私有化部署</title>
     <link href="https://blog.panghai.top/posts/3f0b/"/>
     <id>https://blog.panghai.top/posts/3f0b/</id>
     <published>2022-08-27T07:36:31.000Z</published>
-    <updated>2022-09-02T06:57:12.376Z</updated>
+    <updated>2022-09-03T08:49:09.411Z</updated>
     
     
     <summary type="html">Twikoo是一个简洁、安全、免费的静态网站评论系统，支持邮件、QQ提醒、微信提醒，访客在昵称栏输入 QQ 号，会自动补全 QQ 昵称和 QQ 邮箱，免费搭建，简单部署。</summary>
@@ -196,11 +217,11 @@
   </entry>
   
   <entry>
-    <title>Nginx限流</title>
+    <title>高性能Web应用服务器Nginx常用功能之——限制用户请求</title>
     <link href="https://blog.panghai.top/posts/5e1e/"/>
     <id>https://blog.panghai.top/posts/5e1e/</id>
     <published>2022-08-26T13:23:46.000Z</published>
-    <updated>2022-09-02T06:56:39.607Z</updated>
+    <updated>2022-09-03T08:54:08.058Z</updated>
     
     
     <summary type="html">对外提供网络服务有时会遇到高并发访问的场景，这时我们需要限制访问的速率来保证系统的稳定运行，而Nginx可以通过限流服务来实现。</summary>
@@ -215,11 +236,11 @@
   </entry>
   
   <entry>
-    <title>Nginx负载均衡</title>
+    <title>高性能Web应用服务器Nginx三大功能之——负载均衡</title>
     <link href="https://blog.panghai.top/posts/68ad/"/>
     <id>https://blog.panghai.top/posts/68ad/</id>
     <published>2022-08-25T07:45:24.000Z</published>
-    <updated>2022-09-02T06:56:32.493Z</updated>
+    <updated>2022-09-03T08:52:31.895Z</updated>
     
     
     <summary type="html">负载均衡就是将大量的请求按照某种方式均衡分配给集群中的服务器，防止大量请求只请求一台服务器，从而导致服务崩溃。</summary>
@@ -234,11 +255,11 @@
   </entry>
   
   <entry>
-    <title>Nginx反向代理</title>
+    <title>高性能Web应用服务器Nginx三大功能之——Nginx反向代理</title>
     <link href="https://blog.panghai.top/posts/830e/"/>
     <id>https://blog.panghai.top/posts/830e/</id>
     <published>2022-08-25T02:13:19.000Z</published>
-    <updated>2022-09-02T06:56:26.792Z</updated>
+    <updated>2022-09-03T08:54:14.388Z</updated>
     
     
     <summary type="html">如果我们想要隐藏一些业务的真实ip地址，就要使用反向代理。通俗来说就是多了一个&quot;中介&quot;，只是你只能借助&quot;中介&quot;和通信方进行通信。</summary>
@@ -253,11 +274,11 @@
   </entry>
   
   <entry>
-    <title>Nginx（基础教程）</title>
+    <title>高性能Web应用服务器Nginx入门介绍</title>
     <link href="https://blog.panghai.top/posts/2c47/"/>
     <id>https://blog.panghai.top/posts/2c47/</id>
     <published>2022-08-24T01:59:50.000Z</published>
-    <updated>2022-09-02T06:56:20.492Z</updated>
+    <updated>2022-09-03T09:14:52.623Z</updated>
     
     
     <summary type="html">Nginx [engine x] 是 HTTP 和反向代理服务器、邮件代理服务器和通用 TCP/UDP 代理服务器，具有低系统消耗、稳定、配置简单的特点，能够支持高达50000个并发连接数的响应，采用模块化编译，支持定制化使用。</summary>
@@ -272,11 +293,11 @@
   </entry>
   
   <entry>
-    <title>自建必应壁纸api</title>
+    <title>使用php语言搭建必应壁纸api</title>
     <link href="https://blog.panghai.top/posts/af9f/"/>
     <id>https://blog.panghai.top/posts/af9f/</id>
     <published>2022-08-23T01:30:05.000Z</published>
-    <updated>2022-09-02T15:28:26.202Z</updated>
+    <updated>2022-09-03T08:48:39.964Z</updated>
     
     
     <summary type="html">必应搜索每日都会有一张精美的图片，我们可以自建壁纸api用于博客使用，不用纠结于找文章封面和顶部图。</summary>
@@ -291,11 +312,11 @@
   </entry>
   
   <entry>
-    <title>开机更换壁纸</title>
+    <title>笔记本电脑开机自动更换背景壁纸</title>
     <link href="https://blog.panghai.top/posts/e22f/"/>
     <id>https://blog.panghai.top/posts/e22f/</id>
     <published>2022-08-22T14:14:07.000Z</published>
-    <updated>2022-09-02T06:57:29.395Z</updated>
+    <updated>2022-09-03T08:48:45.621Z</updated>
     
     
     <summary type="html">必应搜索每日都会有一张精美的图片，我们可以每次开机设置最新壁纸到电脑背景。</summary>
@@ -310,11 +331,11 @@
   </entry>
   
   <entry>
-    <title>Butterfly博客使用（标签外挂）</title>
+    <title>Butterfly博客主题搭建系列：标签外挂教程</title>
     <link href="https://blog.panghai.top/posts/5dd3/"/>
     <id>https://blog.panghai.top/posts/5dd3/</id>
     <published>2022-08-21T05:15:03.000Z</published>
-    <updated>2022-09-02T06:55:57.248Z</updated>
+    <updated>2022-09-03T09:02:44.038Z</updated>
     
     
     <summary type="html">标签外挂是Hexo独有的功能，它能为主题带来一些额外的功能和UI方面的强化，但标签外挂也有明显的限制，使用时请留意。</summary>
@@ -331,11 +352,11 @@
   </entry>
   
   <entry>
-    <title>Butterfly博客搭建（进阶教程）</title>
+    <title>Butterfly博客主题搭建系列：进阶教程</title>
     <link href="https://blog.panghai.top/posts/c90c/"/>
     <id>https://blog.panghai.top/posts/c90c/</id>
     <published>2022-08-21T03:24:41.000Z</published>
-    <updated>2022-09-02T15:26:02.302Z</updated>
+    <updated>2022-09-03T08:59:31.033Z</updated>
     
     
     <summary type="html">本教程是Butterfly的进阶教程，用于增加博客的多样性，提升美感。</summary>
@@ -352,14 +373,14 @@
   </entry>
   
   <entry>
-    <title>电脑使用技巧</title>
+    <title>市面上各种主流软件快捷键使用技巧</title>
     <link href="https://blog.panghai.top/posts/8a27/"/>
     <id>https://blog.panghai.top/posts/8a27/</id>
     <published>2022-08-20T08:52:12.000Z</published>
-    <updated>2022-09-02T06:57:24.012Z</updated>
+    <updated>2022-09-03T09:16:53.643Z</updated>
     
     
-    <summary type="html">电脑是现代生活中必不可少的工具，而掌握一些常用命令或使用技巧能让我们事半功倍。</summary>
+    <summary type="html">电脑是现代生活中必不可少的工具，而在各种主流软件中掌握一些常用命令或使用技巧能让我们事半功倍。</summary>
     
     
     
@@ -371,11 +392,11 @@
   </entry>
   
   <entry>
-    <title>Butterfly博客搭建（基础教程）</title>
+    <title>Butterfly博客主题搭建系列：基础教程</title>
     <link href="https://blog.panghai.top/posts/447d/"/>
     <id>https://blog.panghai.top/posts/447d/</id>
     <published>2022-08-20T03:07:24.000Z</published>
-    <updated>2022-09-02T06:55:44.650Z</updated>
+    <updated>2022-09-03T08:59:04.199Z</updated>
     
     
     <summary type="html">Butterfly是一个界面生动，图文交互性强的Hexo主题，借助官方文档和其他博主搭建过程我创作了该教程，该教程主要配Butterfly主题的基础设置，实现快速搭建。</summary>
