@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-09-03T12:58:59.925Z</updated>
+  <updated>2022-09-06T14:10:49.209Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -17,18 +17,60 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Python日期格式化输出的方法（time，datetime）</title>
+    <link href="https://blog.panghai.top/posts/a9f4/"/>
+    <id>https://blog.panghai.top/posts/a9f4/</id>
+    <published>2022-09-06T13:18:14.000Z</published>
+    <updated>2022-09-06T14:10:49.209Z</updated>
+    
+    
+    <summary type="html">有时候我们编写python代码时需要按需求得到特定格式的日期例如yy-MM-dd或yyMMdd等等，现记录它的使用方法</summary>
+    
+    
+    
+    <category term="Python" scheme="https://blog.panghai.top/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://blog.panghai.top/tags/Python/"/>
+    
+    <category term="日期格式化" scheme="https://blog.panghai.top/tags/%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我用include命令让Nginx配置文件内容缩短到四分之一</title>
+    <link href="https://blog.panghai.top/posts/b261/"/>
+    <id>https://blog.panghai.top/posts/b261/</id>
+    <published>2022-09-04T09:52:54.000Z</published>
+    <updated>2022-09-05T03:21:06.641Z</updated>
+    
+    
+    <summary type="html">做网站一段时间了，最近登录服务器发现Nginx的配置文件达到了惊人的四百多行，这个配置文件臃肿得让我看不下去了，该给配置文件&quot;瘦瘦身&quot;了。现在此记录一下&quot;瘦身过程&quot;。</summary>
+    
+    
+    
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    
+    
+    <category term="Nginx优化配置文件" scheme="https://blog.panghai.top/tags/Nginx%E4%BC%98%E5%8C%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/"/>
+    
+    <category term="Nginx" scheme="https://blog.panghai.top/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Linux常用命令学习：cat命令</title>
     <link href="https://blog.panghai.top/posts/7cc8/"/>
     <id>https://blog.panghai.top/posts/7cc8/</id>
     <published>2022-09-03T12:54:30.000Z</published>
-    <updated>2022-09-03T12:58:59.925Z</updated>
+    <updated>2022-09-04T11:25:55.329Z</updated>
     
     
     <summary type="html">cat（英文全拼：concatenate）命令用于连接文件并打印到标准输出设备上</summary>
     
     
     
-    <category term="Linux教程" scheme="https://blog.panghai.top/categories/Linux%E6%95%99%E7%A8%8B/"/>
+    <category term="Linux" scheme="https://blog.panghai.top/categories/Linux/"/>
     
     
     <category term="Linux命令学习" scheme="https://blog.panghai.top/tags/Linux%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/"/>
@@ -61,14 +103,14 @@
     <link href="https://blog.panghai.top/posts/d5f4/"/>
     <id>https://blog.panghai.top/posts/d5f4/</id>
     <published>2022-09-01T13:19:44.000Z</published>
-    <updated>2022-09-03T09:12:12.739Z</updated>
+    <updated>2022-09-04T11:25:47.935Z</updated>
     
     
     <summary type="html">通常服务器上自带了python2.7环境，但由于版本太低，限制我们开发，但是yum命令又依赖python2.7环境，所以升级python时需要注意</summary>
     
     
     
-    <category term="Linux教程" scheme="https://blog.panghai.top/categories/Linux%E6%95%99%E7%A8%8B/"/>
+    <category term="Linux" scheme="https://blog.panghai.top/categories/Linux/"/>
     
     
     <category term="Linux" scheme="https://blog.panghai.top/tags/Linux/"/>
@@ -160,14 +202,14 @@
     <link href="https://blog.panghai.top/posts/7e+25/"/>
     <id>https://blog.panghai.top/posts/7e+25/</id>
     <published>2022-08-29T03:06:56.000Z</published>
-    <updated>2022-09-03T08:53:42.566Z</updated>
+    <updated>2022-09-04T11:25:07.734Z</updated>
     
     
     <summary type="html">在日常业务场景中可能存在恶意用户频繁访问系统，占用系统资源，影响正常用户访问。本次介绍如何利用Nginx和shell脚本自动化封禁访问ip。</summary>
     
     
     
-    <category term="Web应用服务器" scheme="https://blog.panghai.top/categories/Web%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
     
     
     <category term="Nginx自动化封禁ip" scheme="https://blog.panghai.top/tags/Nginx%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B0%81%E7%A6%81ip/"/>
@@ -221,14 +263,14 @@
     <link href="https://blog.panghai.top/posts/5e1e/"/>
     <id>https://blog.panghai.top/posts/5e1e/</id>
     <published>2022-08-26T13:23:46.000Z</published>
-    <updated>2022-09-03T08:54:08.058Z</updated>
+    <updated>2022-09-04T11:25:01.944Z</updated>
     
     
     <summary type="html">对外提供网络服务有时会遇到高并发访问的场景，这时我们需要限制访问的速率来保证系统的稳定运行，而Nginx可以通过限流服务来实现。</summary>
     
     
     
-    <category term="Web应用服务器" scheme="https://blog.panghai.top/categories/Web%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
     
     
     <category term="Nginx限流" scheme="https://blog.panghai.top/tags/Nginx%E9%99%90%E6%B5%81/"/>
@@ -240,14 +282,14 @@
     <link href="https://blog.panghai.top/posts/68ad/"/>
     <id>https://blog.panghai.top/posts/68ad/</id>
     <published>2022-08-25T07:45:24.000Z</published>
-    <updated>2022-09-03T08:52:31.895Z</updated>
+    <updated>2022-09-04T11:24:45.871Z</updated>
     
     
     <summary type="html">负载均衡就是将大量的请求按照某种方式均衡分配给集群中的服务器，防止大量请求只请求一台服务器，从而导致服务崩溃。</summary>
     
     
     
-    <category term="Web应用服务器" scheme="https://blog.panghai.top/categories/Web%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
     
     
     <category term="Nginx负载均衡" scheme="https://blog.panghai.top/tags/Nginx%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/"/>
@@ -259,14 +301,14 @@
     <link href="https://blog.panghai.top/posts/830e/"/>
     <id>https://blog.panghai.top/posts/830e/</id>
     <published>2022-08-25T02:13:19.000Z</published>
-    <updated>2022-09-03T08:54:14.388Z</updated>
+    <updated>2022-09-04T15:22:26.116Z</updated>
     
     
     <summary type="html">如果我们想要隐藏一些业务的真实ip地址，就要使用反向代理。通俗来说就是多了一个&quot;中介&quot;，只是你只能借助&quot;中介&quot;和通信方进行通信。</summary>
     
     
     
-    <category term="Web应用服务器" scheme="https://blog.panghai.top/categories/Web%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
     
     
     <category term="Nginx反向代理" scheme="https://blog.panghai.top/tags/Nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/"/>
@@ -278,14 +320,14 @@
     <link href="https://blog.panghai.top/posts/2c47/"/>
     <id>https://blog.panghai.top/posts/2c47/</id>
     <published>2022-08-24T01:59:50.000Z</published>
-    <updated>2022-09-03T09:14:52.623Z</updated>
+    <updated>2022-09-04T11:24:56.380Z</updated>
     
     
     <summary type="html">Nginx [engine x] 是 HTTP 和反向代理服务器、邮件代理服务器和通用 TCP/UDP 代理服务器，具有低系统消耗、稳定、配置简单的特点，能够支持高达50000个并发连接数的响应，采用模块化编译，支持定制化使用。</summary>
     
     
     
-    <category term="Web应用服务器" scheme="https://blog.panghai.top/categories/Web%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
     
     
     <category term="Nginx基本使用" scheme="https://blog.panghai.top/tags/Nginx%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/"/>
@@ -360,46 +402,6 @@
     
     
     <summary type="html">本教程是Butterfly的进阶教程，用于增加博客的多样性，提升美感。</summary>
-    
-    
-    
-    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="Butterfly" scheme="https://blog.panghai.top/tags/Butterfly/"/>
-    
-    <category term="博客搭建" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>市面上各种主流软件快捷键使用技巧</title>
-    <link href="https://blog.panghai.top/posts/8a27/"/>
-    <id>https://blog.panghai.top/posts/8a27/</id>
-    <published>2022-08-20T08:52:12.000Z</published>
-    <updated>2022-09-03T09:16:53.643Z</updated>
-    
-    
-    <summary type="html">电脑是现代生活中必不可少的工具，而在各种主流软件中掌握一些常用命令或使用技巧能让我们事半功倍。</summary>
-    
-    
-    
-    <category term="工具" scheme="https://blog.panghai.top/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-    
-    <category term="快捷命令" scheme="https://blog.panghai.top/tags/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Butterfly博客主题搭建系列：基础教程</title>
-    <link href="https://blog.panghai.top/posts/447d/"/>
-    <id>https://blog.panghai.top/posts/447d/</id>
-    <published>2022-08-20T03:07:24.000Z</published>
-    <updated>2022-09-03T08:59:04.199Z</updated>
-    
-    
-    <summary type="html">Butterfly是一个界面生动，图文交互性强的Hexo主题，借助官方文档和其他博主搭建过程我创作了该教程，该教程主要配Butterfly主题的基础设置，实现快速搭建。</summary>
     
     
     
