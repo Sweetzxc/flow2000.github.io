@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-09-06T14:10:49.209Z</updated>
+  <updated>2022-09-08T05:05:27.317Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nginx原理详细讲解分析</title>
+    <link href="https://blog.panghai.top/posts/d86b/"/>
+    <id>https://blog.panghai.top/posts/d86b/</id>
+    <published>2022-09-08T03:38:54.000Z</published>
+    <updated>2022-09-08T05:05:27.317Z</updated>
+    
+    
+    <summary type="html">Nginx是一个高性能的HTTP和反向代理服务器，它由内核和模块组成，内核包含着一些基础的数据结构，例如：链表、内存池、hashmap、String等，内核的工作十分简单，只是负责查找配置文件映射到location block上，location上匹配的指令将会启动不同的模块进行工作</summary>
+    
+    
+    
+    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
+    
+    
+    <category term="Nginx原理" scheme="https://blog.panghai.top/tags/Nginx%E5%8E%9F%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Python日期格式化输出的方法（time，datetime）</title>
@@ -390,27 +409,6 @@
     <category term="Butterfly" scheme="https://blog.panghai.top/tags/Butterfly/"/>
     
     <category term="博客使用" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Butterfly博客主题搭建系列：进阶教程</title>
-    <link href="https://blog.panghai.top/posts/c90c/"/>
-    <id>https://blog.panghai.top/posts/c90c/</id>
-    <published>2022-08-21T03:24:41.000Z</published>
-    <updated>2022-09-03T08:59:31.033Z</updated>
-    
-    
-    <summary type="html">本教程是Butterfly的进阶教程，用于增加博客的多样性，提升美感。</summary>
-    
-    
-    
-    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="Butterfly" scheme="https://blog.panghai.top/tags/Butterfly/"/>
-    
-    <category term="博客搭建" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
