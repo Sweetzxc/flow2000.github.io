@@ -30,6 +30,12 @@
     font-size: 18px;
 }
 
+/* 全局样式 */
+/* 隐藏图片下方的alt属性 */
+.img-alt,.fancybox__caption{
+    display: none;
+}
+
 /* 关于页面访问统计、访客信息样式 */
 #pvisitor,
 #ivisitor {
