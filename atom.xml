@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-09-10T09:37:31.022Z</updated>
+  <updated>2022-09-11T02:35:58.981Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>轻量级定制化框架Flask常用功能介绍</title>
+    <link href="https://blog.panghai.top/posts/31e6/"/>
+    <id>https://blog.panghai.top/posts/31e6/</id>
+    <published>2022-09-10T15:59:02.000Z</published>
+    <updated>2022-09-11T02:35:58.981Z</updated>
+    
+    
+    <summary type="html">Flask是一个用python语言基于Werkzeug工具箱编写的轻量级web开发框架，它主要面向需求简单，项目周期短的小应用。下面介绍如何使用Flask构建一个web应用</summary>
+    
+    
+    
+    <category term="Flask" scheme="https://blog.panghai.top/categories/Flask/"/>
+    
+    
+    <category term="Flask" scheme="https://blog.panghai.top/tags/Flask/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Nginx原理详细讲解分析</title>
     <link href="https://blog.panghai.top/posts/d86b/"/>
     <id>https://blog.panghai.top/posts/d86b/</id>
     <published>2022-09-08T03:38:54.000Z</published>
-    <updated>2022-09-10T09:37:31.022Z</updated>
+    <updated>2022-09-10T16:02:06.344Z</updated>
     
     
     <summary type="html">Nginx是一个高性能的HTTP和反向代理服务器，它由内核和模块组成，内核包含着一些基础的数据结构，例如：链表、内存池、hashmap、String等，内核的工作十分简单，只是负责查找配置文件映射到location block上，location上匹配的指令将会启动不同的模块进行工作</summary>
@@ -388,27 +407,6 @@
     
     
     <category term="必应api" scheme="https://blog.panghai.top/tags/%E5%BF%85%E5%BA%94api/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Butterfly博客主题搭建系列：标签外挂教程</title>
-    <link href="https://blog.panghai.top/posts/5dd3/"/>
-    <id>https://blog.panghai.top/posts/5dd3/</id>
-    <published>2022-08-21T05:15:03.000Z</published>
-    <updated>2022-09-10T09:10:38.361Z</updated>
-    
-    
-    <summary type="html">标签外挂是Hexo独有的功能，它能为主题带来一些额外的功能和UI方面的强化，但标签外挂也有明显的限制，使用时请留意。</summary>
-    
-    
-    
-    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="Butterfly" scheme="https://blog.panghai.top/tags/Butterfly/"/>
-    
-    <category term="博客使用" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8/"/>
     
   </entry>
   
