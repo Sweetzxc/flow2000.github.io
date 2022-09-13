@@ -32,9 +32,10 @@
 
 /* 全局样式 */
 /* 隐藏图片下方的alt属性 */
-.img-alt,.fancybox__caption{
+.img-alt,.entered loaded {
     display: none;
 }
+
 
 /* 关于页面访问统计、访客信息样式 */
 #pvisitor,
@@ -92,7 +93,7 @@ div#ivisitor a {
     height: auto !important;
 }
 
-#visitor div p{
+#visitor div p {
     margin: 0px !important;
     text-align: left !important;
 }

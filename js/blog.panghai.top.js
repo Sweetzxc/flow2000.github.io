@@ -5,7 +5,7 @@ function sleep(time) {
 
 //休眠2秒
 sleep(2000).then(() => {
-	console.clear();
+	// console.clear();
 	welcome();
 })
 

@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-09-11T02:35:58.981Z</updated>
+  <updated>2022-09-13T04:51:55.118Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用ffmpeg合并手机B站缓存的视频</title>
+    <link href="https://blog.panghai.top/posts/8594/"/>
+    <id>https://blog.panghai.top/posts/8594/</id>
+    <published>2022-09-13T03:14:16.000Z</published>
+    <updated>2022-09-13T04:51:55.118Z</updated>
+    
+    
+    <summary type="html">有时候在B站发布的视频下架了，虽然已经缓存了，但是B站已经把视频处理过，无法在相册查看和上传电脑，本教程利用ffmpeg将B站的缓存的视频和音频合并成mp4文件</summary>
+    
+    
+    
+    <category term="ffmpeg" scheme="https://blog.panghai.top/categories/ffmpeg/"/>
+    
+    
+    <category term="ffmpeg" scheme="https://blog.panghai.top/tags/ffmpeg/"/>
+    
+  </entry>
   
   <entry>
     <title>轻量级定制化框架Flask常用功能介绍</title>
@@ -381,25 +400,6 @@
     
     
     <summary type="html">必应搜索每日都会有一张精美的图片，我们可以自建壁纸api用于博客使用，不用纠结于找文章封面和顶部图。</summary>
-    
-    
-    
-    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="必应api" scheme="https://blog.panghai.top/tags/%E5%BF%85%E5%BA%94api/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>笔记本电脑开机自动更换背景壁纸</title>
-    <link href="https://blog.panghai.top/posts/e22f/"/>
-    <id>https://blog.panghai.top/posts/e22f/</id>
-    <published>2022-08-22T14:14:07.000Z</published>
-    <updated>2022-09-03T08:48:45.621Z</updated>
-    
-    
-    <summary type="html">必应搜索每日都会有一张精美的图片，我们可以每次开机设置最新壁纸到电脑背景。</summary>
     
     
     
