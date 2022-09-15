@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-09-13T04:51:55.118Z</updated>
+  <updated>2022-09-15T07:07:40.687Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux脚本实现一键启动或停止应用程序</title>
+    <link href="https://blog.panghai.top/posts/aa77/"/>
+    <id>https://blog.panghai.top/posts/aa77/</id>
+    <published>2022-09-15T03:55:40.000Z</published>
+    <updated>2022-09-15T07:07:40.687Z</updated>
+    
+    
+    <summary type="html">我们在Linux服务器运行jar包时常常会因为命令行太复杂而忘记如何运行和停止，我们可以使用脚本的形式来启动、停止、重新启动应用程序，节省时间减少出错概率</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://blog.panghai.top/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.panghai.top/tags/Linux/"/>
+    
+    <category term="Linux脚本" scheme="https://blog.panghai.top/tags/Linux%E8%84%9A%E6%9C%AC/"/>
+    
+  </entry>
   
   <entry>
     <title>使用ffmpeg合并手机B站缓存的视频</title>
@@ -99,7 +120,7 @@
     <link href="https://blog.panghai.top/posts/b261/"/>
     <id>https://blog.panghai.top/posts/b261/</id>
     <published>2022-09-04T09:52:54.000Z</published>
-    <updated>2022-09-10T09:35:07.140Z</updated>
+    <updated>2022-09-15T07:11:25.264Z</updated>
     
     
     <summary type="html">做网站一段时间了，最近登录服务器发现Nginx的配置文件达到了惊人的四百多行，这个配置文件臃肿得让我看不下去了，该给配置文件&quot;瘦瘦身&quot;了。现在此记录一下&quot;瘦身过程&quot;。</summary>
@@ -110,8 +131,6 @@
     
     
     <category term="Nginx优化配置文件" scheme="https://blog.panghai.top/tags/Nginx%E4%BC%98%E5%8C%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/"/>
-    
-    <category term="Nginx" scheme="https://blog.panghai.top/tags/Nginx/"/>
     
   </entry>
   
@@ -200,7 +219,7 @@
     <link href="https://blog.panghai.top/posts/b20a/"/>
     <id>https://blog.panghai.top/posts/b20a/</id>
     <published>2022-08-30T11:56:17.000Z</published>
-    <updated>2022-09-10T09:32:45.447Z</updated>
+    <updated>2022-09-15T02:16:36.708Z</updated>
     
     
     <summary type="html">在Butterfly的基础对页面的一些优化，因为涉及到修改源码，所以记录一下修改过程，以免升级主题时产生冲突。</summary>
@@ -259,7 +278,7 @@
     <link href="https://blog.panghai.top/posts/7e+25/"/>
     <id>https://blog.panghai.top/posts/7e+25/</id>
     <published>2022-08-29T03:06:56.000Z</published>
-    <updated>2022-09-14T08:36:42.870Z</updated>
+    <updated>2022-09-15T07:15:08.666Z</updated>
     
     
     <summary type="html">在日常业务场景中可能存在恶意用户频繁访问系统，占用系统资源，影响正常用户访问。本次介绍如何利用Nginx和shell脚本自动化封禁访问ip。</summary>
@@ -320,7 +339,7 @@
     <link href="https://blog.panghai.top/posts/5e1e/"/>
     <id>https://blog.panghai.top/posts/5e1e/</id>
     <published>2022-08-26T13:23:46.000Z</published>
-    <updated>2022-09-10T09:37:15.945Z</updated>
+    <updated>2022-09-15T07:10:37.917Z</updated>
     
     
     <summary type="html">对外提供网络服务有时会遇到高并发访问的场景，这时我们需要限制访问的速率来保证系统的稳定运行，而Nginx可以通过限流服务来实现。</summary>
@@ -339,7 +358,7 @@
     <link href="https://blog.panghai.top/posts/68ad/"/>
     <id>https://blog.panghai.top/posts/68ad/</id>
     <published>2022-08-25T07:45:24.000Z</published>
-    <updated>2022-09-10T09:34:10.885Z</updated>
+    <updated>2022-09-15T07:11:36.839Z</updated>
     
     
     <summary type="html">负载均衡就是将大量的请求按照某种方式均衡分配给集群中的服务器，防止大量请求只请求一台服务器，从而导致服务崩溃。</summary>
@@ -358,7 +377,7 @@
     <link href="https://blog.panghai.top/posts/830e/"/>
     <id>https://blog.panghai.top/posts/830e/</id>
     <published>2022-08-25T02:13:19.000Z</published>
-    <updated>2022-09-10T09:33:58.779Z</updated>
+    <updated>2022-09-15T07:12:14.646Z</updated>
     
     
     <summary type="html">如果我们想要隐藏一些业务的真实ip地址，就要使用反向代理。通俗来说就是多了一个&quot;中介&quot;，只是你只能借助&quot;中介&quot;和通信方进行通信。</summary>
@@ -388,25 +407,6 @@
     
     
     <category term="Nginx基本使用" scheme="https://blog.panghai.top/tags/Nginx%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用php语言搭建必应壁纸api</title>
-    <link href="https://blog.panghai.top/posts/af9f/"/>
-    <id>https://blog.panghai.top/posts/af9f/</id>
-    <published>2022-08-23T01:30:05.000Z</published>
-    <updated>2022-09-10T09:43:58.399Z</updated>
-    
-    
-    <summary type="html">必应搜索每日都会有一张精美的图片，我们可以自建壁纸api用于博客使用，不用纠结于找文章封面和顶部图。</summary>
-    
-    
-    
-    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="必应api" scheme="https://blog.panghai.top/tags/%E5%BF%85%E5%BA%94api/"/>
     
   </entry>
   
