@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Linux服务器开发环境配置</title>
+      <link href="/posts/9651/"/>
+      <url>/posts/9651/</url>
+      
+        <content type="html"><![CDATA[<p>分享Linux服务器一些环境安装脚本</p><p>直接运行<code>sh xxx.sh</code>即可</p><div class="tabs" id="tab-1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#tab-1-1">java1.8</button></li><li class="tab"><button type="button" data-href="#tab-1-2">maven</button></li><li class="tab"><button type="button" data-href="#tab-1-3">mysql5.7</button></li><li class="tab"><button type="button" data-href="#tab-1-4">mysql8.0</button></li><li class="tab"><button type="button" data-href="#tab-1-5">nginx1.21.3</button></li><li class="tab"><button type="button" data-href="#tab-1-6">node16.14.0</button></li><li class="tab"><button type="button" data-href="#tab-1-7">redis5.0.8</button></li><li class="tab"><button type="button" data-href="#tab-1-8">gotop</button></li><li class="tab"><button type="button" data-href="#tab-1-9">gotop</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="tab-1-1"><p><a href="/code/shell/install-java-1.8.sh">install-java-1.8.sh</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tab-1-2"><p><a href="/code/shell/install-maven.sh">install-maven.sh</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tab-1-3"><p><a href="/code/shell/install-mysql-5.7.sh">install-mysql-5.7.sh</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tab-1-4"><p><a href="/code/shell/install-mysql-8.0.sh">install-mysql-8.0.sh</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tab-1-5"><p><a href="/code/shell/install-nginx-1.21.3.sh">install-nginx-1.21.3.sh</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tab-1-6"><p><a href="/code/shell/install-node-16.14.0.sh">install-node-16.14.0.sh</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tab-1-7"><p><a href="/code/shell/install-redis-5.0.8.sh">install-redis-5.0.8.sh</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tab-1-8"><p><a href="/code/shell/install-gotop.sh">install-gotop.sh</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="tab-1-9"><p><a href="/code/shell/install-gotop.sh">install-gotop.sh</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Linux服务器免密码登录</title>
       <link href="/posts/9e+29/"/>
       <url>/posts/9e+29/</url>

@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-09-16T13:17:18.458Z</updated>
+  <updated>2022-09-18T03:31:59.259Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux服务器开发环境配置</title>
+    <link href="https://blog.panghai.top/posts/9651/"/>
+    <id>https://blog.panghai.top/posts/9651/</id>
+    <published>2022-09-18T03:12:57.000Z</published>
+    <updated>2022-09-18T03:31:59.259Z</updated>
+    
+    
+    <summary type="html">分享Linux服务器一些环境安装脚本</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://blog.panghai.top/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.panghai.top/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>Linux服务器免密码登录</title>
@@ -390,25 +409,6 @@
     
     
     <category term="Nginx负载均衡" scheme="https://blog.panghai.top/tags/Nginx%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高性能Web应用服务器Nginx三大功能之——Nginx反向代理</title>
-    <link href="https://blog.panghai.top/posts/830e/"/>
-    <id>https://blog.panghai.top/posts/830e/</id>
-    <published>2022-08-25T02:13:19.000Z</published>
-    <updated>2022-09-15T07:12:14.646Z</updated>
-    
-    
-    <summary type="html">如果我们想要隐藏一些业务的真实ip地址，就要使用反向代理。通俗来说就是多了一个&quot;中介&quot;，只是你只能借助&quot;中介&quot;和通信方进行通信。</summary>
-    
-    
-    
-    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
-    
-    
-    <category term="Nginx反向代理" scheme="https://blog.panghai.top/tags/Nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/"/>
     
   </entry>
   
