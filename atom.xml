@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-09-18T03:31:59.259Z</updated>
+  <updated>2022-09-19T15:15:46.304Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>搭建一个SprintBoot简单入门项目</title>
+    <link href="https://blog.panghai.top/posts/8dfa/"/>
+    <id>https://blog.panghai.top/posts/8dfa/</id>
+    <published>2022-09-18T15:58:28.000Z</published>
+    <updated>2022-09-19T15:15:46.304Z</updated>
+    
+    
+    <summary type="html">SpringBoot是一个开箱即用，提供各种默认配置来简化项目配置，让开发者能够更加专注于业务逻辑的Java开源框架，其目的在于简化Spring应用的搭建和开发过程</summary>
+    
+    
+    
+    <category term="Java" scheme="https://blog.panghai.top/categories/Java/"/>
+    
+    
+    <category term="SprintBoot" scheme="https://blog.panghai.top/tags/SprintBoot/"/>
+    
+    <category term="Java" scheme="https://blog.panghai.top/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Linux服务器开发环境配置</title>
     <link href="https://blog.panghai.top/posts/9651/"/>
     <id>https://blog.panghai.top/posts/9651/</id>
     <published>2022-09-18T03:12:57.000Z</published>
-    <updated>2022-09-18T03:31:59.259Z</updated>
+    <updated>2022-09-18T03:43:51.851Z</updated>
     
     
     <summary type="html">分享Linux服务器一些环境安装脚本</summary>
@@ -40,7 +61,7 @@
     <link href="https://blog.panghai.top/posts/9e+29/"/>
     <id>https://blog.panghai.top/posts/9e+29/</id>
     <published>2022-09-16T11:38:34.000Z</published>
-    <updated>2022-09-16T13:17:18.458Z</updated>
+    <updated>2022-09-18T13:37:04.278Z</updated>
     
     
     <summary type="html">当拥有一台服务器时，最先保证的是安全，而保证安全的方式有很多，譬如避免开放过多的端口，尽量避免使用默认端口，登录口令尽量复杂，其中登录口令是进入服务器的第一道防线，但有时候复杂的口令即阻挡了外来人也阻挡正常登录（密码太复杂了），所以有没有一种既简单又能有效防止被破解的方法呢？当然有，免密登录就是最简单有效的方法</summary>
@@ -390,25 +411,6 @@
     
     
     <category term="Nginx限流" scheme="https://blog.panghai.top/tags/Nginx%E9%99%90%E6%B5%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高性能Web应用服务器Nginx三大功能之——负载均衡</title>
-    <link href="https://blog.panghai.top/posts/68ad/"/>
-    <id>https://blog.panghai.top/posts/68ad/</id>
-    <published>2022-08-25T07:45:24.000Z</published>
-    <updated>2022-09-15T07:11:36.839Z</updated>
-    
-    
-    <summary type="html">负载均衡就是将大量的请求按照某种方式均衡分配给集群中的服务器，防止大量请求只请求一台服务器，从而导致服务崩溃。</summary>
-    
-    
-    
-    <category term="Nginx" scheme="https://blog.panghai.top/categories/Nginx/"/>
-    
-    
-    <category term="Nginx负载均衡" scheme="https://blog.panghai.top/tags/Nginx%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/"/>
     
   </entry>
   
