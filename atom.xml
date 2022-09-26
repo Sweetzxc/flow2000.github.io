@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-09-21T14:08:22.379Z</updated>
+  <updated>2022-09-26T03:40:15.100Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何申请一个永久免费的Mongodb数据库-详细版</title>
+    <link href="https://blog.panghai.top/posts/b267/"/>
+    <id>https://blog.panghai.top/posts/b267/</id>
+    <published>2022-09-25T13:27:09.000Z</published>
+    <updated>2022-09-26T03:40:15.100Z</updated>
+    
+    
+    <summary type="html">MongoDB是一个文档数据库，它类似于JSON对象，我们可以使用MongoDB存储我们的博客数据，比如用户评论，友链文章信息等等，但由于自建服务略有些麻烦，今天教大家如何申请一个永久免费的Mongodb数据库供我们使用。</summary>
+    
+    
+    
+    <category term="Mongodb" scheme="https://blog.panghai.top/categories/Mongodb/"/>
+    
+    
+    <category term="Mongodb" scheme="https://blog.panghai.top/tags/Mongodb/"/>
+    
+  </entry>
   
   <entry>
     <title>提问的智慧</title>
@@ -390,27 +409,6 @@
     <category term="博客搭建" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     <category term="Qmsg私有部署" scheme="https://blog.panghai.top/tags/Qmsg%E7%A7%81%E6%9C%89%E9%83%A8%E7%BD%B2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>静态网站评论系统Twikoo私有化部署</title>
-    <link href="https://blog.panghai.top/posts/3f0b/"/>
-    <id>https://blog.panghai.top/posts/3f0b/</id>
-    <published>2022-08-27T07:36:31.000Z</published>
-    <updated>2022-09-16T08:08:37.577Z</updated>
-    
-    
-    <summary type="html">Twikoo是一个简洁、安全、免费的静态网站评论系统，支持邮件、QQ提醒、微信提醒，访客在昵称栏输入 QQ 号，会自动补全 QQ 昵称和 QQ 邮箱，免费搭建，简单部署。</summary>
-    
-    
-    
-    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="博客搭建" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
-    <category term="Twikoo私有部署" scheme="https://blog.panghai.top/tags/Twikoo%E7%A7%81%E6%9C%89%E9%83%A8%E7%BD%B2/"/>
     
   </entry>
   
