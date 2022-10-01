@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>九月份小结：我的博客优化以及未来计划安排</title>
+      <link href="/posts/6007/"/>
+      <url>/posts/6007/</url>
+      
+        <content type="html"><![CDATA[<h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>这个月一直在忙实习，没有时间产出文章，质量也水了好多。博客优化减少了频度，逐渐转向文章产出。一句话总结：文章质量不用水</p><h2 id="收获"><a href="#收获" class="headerlink" title="收获"></a>收获</h2><ul><li>增加<a href="https://travellings.cn/">开往</a>、<a href="http://foreverblog.cn/go.html">虫洞</a>随机跳转链接来增加访问量</li><li>上线<a href="https://panghai.top/">导航站点</a></li><li>增加<a href="https://blog.panghai.top/fcircle/">友链朋友圈</a>，加强与友链朋友的联系，快速学习最新文章</li><li>上线<a href="https://bing.panghai.top/">必应壁纸站点</a></li><li>增加<a href="https://blog.panghai.top/history/">建站记录</a>，记录一些重要时刻，增加仪式感</li><li>新增友链若干</li></ul><h2 id="困难"><a href="#困难" class="headerlink" title="困难"></a>困难</h2><ol><li><del>部署服务器加速api的访问，git钩子部署有难度</del>，多查查资料，多问问大佬</li><li><del>每天一篇文章真的撑不住</del>，改个三天一篇</li></ol><h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><ol><li>保持每月十篇文章的产出</li><li>专注个人提升</li><li>到群里多交流（吹水）</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 总结 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Github在知道仓库地址如何快速下载仓库</title>
       <link href="/posts/e89e/"/>
       <url>/posts/e89e/</url>
       
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>我们有时候在逛Github时遇到自己想要的仓库，想要下载源码，但是奈何总是下载失败，用加速网也不稳定，本教程教大家如何正确使用git下载仓库</p><p>众所周知，仓库名的地址一般是github.com&#x2F;用户名&#x2F;仓库名.git，而且git克隆有两种方式：</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone https://github.com/flow2000/bing<span class="literal">-api</span>.git</span><br></pre></td></tr></table></figure><p>或者</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone git@github.com:flow2000/bing<span class="literal">-api</span>.git</span><br></pre></td></tr></table></figure><p>如果用第一种方式的话会因为走HTTP协议被<a href="https://baike.baidu.com/item/DNS%E6%B1%A1%E6%9F%93/8620359">DNS污染</a>（无法在浏览器正常访问），而第二种因为走SSH协议就不会了，因此我们可以在已知仓库名的情况下使用<code>git</code>快速下载仓库</p><p><img src="/../img/e89e/20220928143539.png" alt="git下载仓库"></p><h2 id="小技巧"><a href="#小技巧" class="headerlink" title="小技巧"></a>小技巧</h2><p>我一般是在文本下记录<code>git clone git@github.com: </code>，如果遇到了心怡的仓库就复制用户名和仓库名，例如：<code>cjbassi/gotop</code>，然后拼接在一起复制整条语句，例如：<code>git clone git@github.com:cjbassi/gotop</code></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>我们有时候在逛Github时遇到自己想要的仓库，想要下载源码，但是奈何总是下载失败，用加速网也不稳定，本教程教大家如何正确使用git下载仓库</p><p>众所周知，仓库名的地址一般是github.com&#x2F;用户名&#x2F;仓库名.git，而且git克隆有两种方式：</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone https://github.com/flow2000/bing<span class="literal">-api</span>.git</span><br></pre></td></tr></table></figure><p>或者</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone git@github.com:flow2000/bing<span class="literal">-api</span>.git</span><br></pre></td></tr></table></figure><p>如果用第一种方式的话会因为走HTTP协议被<a href="https://baike.baidu.com/item/DNS%E6%B1%A1%E6%9F%93/8620359">DNS污染</a>（无法在浏览器正常访问），而第二种因为走SSH协议就不会了，因此我们可以在已知仓库名的情况下使用<code>git</code>快速下载仓库</p><p><img src="/../img/e89e/20220928143539.png" alt="git下载仓库"></p><h2 id="小技巧"><a href="#小技巧" class="headerlink" title="小技巧"></a>小技巧</h2><p>我一般是在文本下记录<code>git clone git@github.com: </code>，如果遇到了心怡的仓库就复制用户名和仓库名，例如：<code>cjbassi/gotop</code>，然后拼接在一起复制整条语句，例如：<code>git clone git@github.com:cjbassi/gotop</code></p><p><img src="/../img/e89e/2156987653242.png"></p>]]></content>
       
       
       <categories>
