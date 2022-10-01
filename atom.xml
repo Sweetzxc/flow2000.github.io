@@ -6,7 +6,7 @@
   <link href="https://blog.panghai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.panghai.top/"/>
-  <updated>2022-09-27T14:04:41.231Z</updated>
+  <updated>2022-10-01T14:16:54.484Z</updated>
   <id>https://blog.panghai.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Github在知道仓库地址如何快速下载仓库</title>
+    <link href="https://blog.panghai.top/posts/e89e/"/>
+    <id>https://blog.panghai.top/posts/e89e/</id>
+    <published>2022-09-28T04:04:27.000Z</published>
+    <updated>2022-10-01T14:16:54.484Z</updated>
+    
+    
+    <summary type="html">我们有时候在逛Github时遇到自己想要的仓库，想要下载源码，但是奈何总是下载失败，用加速网也不稳定，本教程教大家如何正确使用git下载仓库</summary>
+    
+    
+    
+    <category term="Github" scheme="https://blog.panghai.top/categories/Github/"/>
+    
+    
+    <category term="Github" scheme="https://blog.panghai.top/tags/Github/"/>
+    
+    <category term="Git" scheme="https://blog.panghai.top/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
     <title>如何申请一个永久免费的Mongodb数据库-详细版</title>
     <link href="https://blog.panghai.top/posts/b267/"/>
     <id>https://blog.panghai.top/posts/b267/</id>
     <published>2022-09-25T13:27:09.000Z</published>
-    <updated>2022-09-27T14:04:41.231Z</updated>
+    <updated>2022-09-27T15:38:03.020Z</updated>
     
     
     <summary type="html">MongoDB是一个文档数据库，它类似于JSON对象，我们可以使用MongoDB存储我们的博客数据，比如用户评论，友链文章信息等等，但由于自建服务略有些麻烦，今天教大家如何申请一个永久免费的Mongodb数据库供我们使用。</summary>
@@ -388,27 +409,6 @@
     
     
     <category term="Nginx自动化封禁ip" scheme="https://blog.panghai.top/tags/Nginx%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B0%81%E7%A6%81ip/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>QQ消息推送机器人Qmsg私有化部署</title>
-    <link href="https://blog.panghai.top/posts/7b50/"/>
-    <id>https://blog.panghai.top/posts/7b50/</id>
-    <published>2022-08-28T02:01:14.000Z</published>
-    <updated>2022-09-18T03:38:34.577Z</updated>
-    
-    
-    <summary type="html">Qmsg酱是一个QQ消息推送机器人，用来通知自己消息的免费服务。通过调用API接口，实现机器人给你的QQ发送消息的功能。通俗易懂点就是有什么重要通知需要及时知道，可以让Qmsg酱第一时间给你发QQ消息。</summary>
-    
-    
-    
-    <category term="博客" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="博客搭建" scheme="https://blog.panghai.top/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
-    <category term="Qmsg私有部署" scheme="https://blog.panghai.top/tags/Qmsg%E7%A7%81%E6%9C%89%E9%83%A8%E7%BD%B2/"/>
     
   </entry>
   
